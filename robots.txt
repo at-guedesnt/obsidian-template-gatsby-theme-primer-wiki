@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://at-guedesnt.github.io/bsidian-template-gatsby-theme-primer-wiki/sitemap/sitemap-index.xml
+Host: https://at-guedesnt.github.io
