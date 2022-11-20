@@ -1,5 +1,5 @@
 const path = require("path");
-const pathPrefix = "/wikivaledossinos/";
+const pathPrefix = "/";
 const siteMetadata = {
   title: "Obsidian Template for Gatsby Theme Primer Wiki",
   shortName: "Wiki",
@@ -7,7 +7,7 @@ const siteMetadata = {
     "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://at-guedesnt.github.io/wikivaledossinos",
+  siteUrl: "https://at-guedesnt.github.io/wikivaledossinos/",
 };
 module.exports = {
   siteMetadata,
@@ -20,7 +20,7 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "content",
-        path: `${__dirname}/..`,
+        path: `wikivaledossions/${__dirname}..`,
         ignore: [`**/\.*/**/*`],
       },
     },
