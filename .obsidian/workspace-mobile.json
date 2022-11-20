@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "afbb83b97b3156d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "565defa20f050401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6308b098e507110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Série T1-T3/Dutra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a33c3a2ba3c1a4b0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e27f79442848843d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7667d61954d3e106",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ac449f81be9004ba",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6c8ef72ab2ce43c8",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "81ebcd4a21016335",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a247e035d31580f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personagens/Série T1-T3/Dutra.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fdbb1512127525ac",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personagens/Série T1-T3/Dutra.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a131c86d0bcffc0a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personagens/Série T1-T3/Dutra.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c6308b098e507110",
+  "lastOpenFiles": [
+    "Personagens/Série T1-T3/Dona Saberina.md",
+    "Personagens/Série T1-T3/Diogo.md",
+    "Personagens/Série T1-T3/Cervi.md",
+    "Personagens/Série T1-T3/Paulo.md",
+    "Série (Vale dos Sinos)/Primeira Temporada.md",
+    "Colégio Sagrado Jesus.md",
+    "Personagens/Série T1-T3/Dutra.md",
+    "História/Introdução.md",
+    "História/História.md",
+    "História/Apresentação.md"
+  ]
+}

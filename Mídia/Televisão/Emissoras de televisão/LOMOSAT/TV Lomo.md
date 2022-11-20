@@ -1,0 +1,1 @@
+É o canal de TV aberta da [[LOMOSAT]].

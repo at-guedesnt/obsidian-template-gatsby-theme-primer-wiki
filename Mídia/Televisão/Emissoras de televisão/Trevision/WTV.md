@@ -1,0 +1,1 @@
+A WTV é um canal de televisão fechado de humor e músicas para o público adulto. A empresa ficou conhecida como a nova casa do programa infantil [[Rua Assis]] a partir de 2019 quando o [[Santo André (estado)]] não mais teve recursos para gerenciar a [[TVEDU|televisão pública do estado]] por si próprio.

@@ -1,0 +1,1 @@
+Rui é um monstro roxo personagem principal do seriado infantil [[Rua Assis]]. É amigo de [[Passarão]], a ave rosa gigante.

@@ -1,0 +1,3 @@
+É vizinho de [[Dona Saberina]] e [[Ferguson]], mora no 605 do [[Edifício Fröhlich]]. Se torna ligado diretamente à [[Diana]] a partir do início do [[Primeira Temporada|arco principal da primeira temporada]], quem relaciona muito forte à [[Diana (deusa romana)|deusa romana homônima]]. 
+
+Quando Paulo contata [[Léo]] para pedir ajuda relativa à como conseguir dinheiro, é aconselhado a ir buscar na #deepweb, acabando por chegar ao fórum [[Stuffed]].

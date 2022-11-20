@@ -1,0 +1,3 @@
+A **Trevision LLC** é uma empresa francesa dona da [[WTV]], e se encarrega de gerenciar o conteúdo da [[TVEDU]] após a compra do canal do [[Santo André (estado)]]. A Trevision também e responsável por um contrato milionário e único com a [[LOMOSAT]] para que o conteúdo do canal jornalístico [[Lomonews]] seja exibido na TVEDU.
+
+Em compensação, o infantil [[Rua Assis]] que é produzido pela Trevision Studios Brazil é, também, retransmitido na [[TV Lomo]].

@@ -1,0 +1,1 @@
+Passarão é um pássaro gigante azul personagem principal do seriado infantil [[Rua Assis]]. 

@@ -1,0 +1,1 @@
+Saberina Fischer Linck, também conhecida como **Dona Saberina**, é uma idosa que mora no apto. 604 do [[Edifício Fröhlich]]. É vizinha de [[Paulo]] e atualmente casada com [[Ferguson]], saxofonista aposentado que ganhou sua vida trabalhando nos bares de Porto Alegre.

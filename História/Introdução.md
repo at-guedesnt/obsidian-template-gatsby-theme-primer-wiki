@@ -1,0 +1,1 @@
+Esta **enciclopédia** sobre Vale dos Sinos traz como **presente** o momento de **maio de 2020**.

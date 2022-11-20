@@ -1,0 +1,1 @@
+>***Marcela Schneider de Becker** não tem sua própria história. Sendo um personagem secundário e apenas referência quando se fala de seus acontecimentos, a história de Marcela pode ser lida na página de [[Günther Dutra de Becker]].

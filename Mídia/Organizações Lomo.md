@@ -1,0 +1,1 @@
+As Organizações Lomo são responsáveis pelos canais [[LOMOSAT]]. Publicam também o jornal [[O Lomo]].

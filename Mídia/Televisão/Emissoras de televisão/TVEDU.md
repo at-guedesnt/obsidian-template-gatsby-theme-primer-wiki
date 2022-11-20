@@ -1,0 +1,3 @@
+**TVEDU** foi a emissora a emissora pública do [[Santo André (estado)]]. Foi a emissora original do programa infantil [[Rua Assis]] até 2019, quando faliu e foi comprada pela [[Trevision LLC]]. O seriado virou parte da programação original da [[WTV]] desde então, e é retransmitido pela própria TVEDU e, também, pela [[TV Lomo]].
+
+A [[Trevision LLC]] compra programação jornalística da [[Lomonews]] para exibir na [[TVEDU]] e, assim, ter a cota de jornalismo obrigatória da televisão aberta preenchida.

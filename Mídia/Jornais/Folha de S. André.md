@@ -1,0 +1,1 @@
+A Folha de S. André, conhecida também por **Folha** ou **Folha de Santo André**, é o principal jornal do [[Santo André (estado)|Estado de Santo André]]. Tem sua sede na [[Santo André (capital)|capital do estado]].
